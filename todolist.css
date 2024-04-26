@@ -1,0 +1,148 @@
+body{
+    font-size: 26px;
+    font-family:"Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 3%;
+    margin-right: 3%;
+
+}
+
+.Header{
+    display: flex;
+    align-items: center;
+    margin-bottom: 5%;
+    align-items: center;
+    margin-left: 5%;
+}
+
+#header-logo{
+    display: flex;
+    gap: 4%;
+    align-items: center;
+}
+
+
+#logo{
+    width: 50%;
+    border-radius: 50%;
+}
+
+#Logo{
+    margin-left: 20%;
+}
+
+#rise{
+    margin-top: 10%;
+    color: orange;
+}
+
+#Navbar{
+    display: flex;
+    color: rgb(100, 15, 15);
+    align-items: center;
+    margin-left: 8%;
+    margin-top: 2%;
+    gap: 13%;
+
+}
+
+button{
+    padding: 10px 60px;
+    border-color: black 3px;
+    width: 30%;
+    background-color:orange;
+    color: black;
+    font-size: 24px;
+    border-radius:70px ;
+    margin-top: 2%;  
+    box-shadow:  inset 1px 1px 10px #000;
+}
+
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    letter-spacing: 3px;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 14px 16px;
+  
+}
+
+#task{
+    background-color:transparent;
+    border-color: black;
+    padding: 24px;
+    width: 60%;
+    font-size: 24px;
+}
+
+#push{
+    color:rgb(11, 11, 11);
+    border: solid 1px;
+    border-radius: 70px;
+    padding: 24px 20px;
+    margin-left: -150px;
+    margin-top: -28px;
+    width: 10%;
+    box-shadow:  inset 1px 1px 10px #000;
+}
+
+#tasktype{
+    background-color:orange;
+    border-color: black;
+    padding: 24px;
+    width: 60%;
+    font-size: 24px;
+    gap: 20%;
+    
+}
+
+#newtask{
+    margin-left: 5%;
+    width: 100%;
+
+}
+
+#bin{
+    padding: 10px 2px;
+    margin-left: 5%;
+    width: 80px;
+    align-items: center;
+    
+}
+
+.class{
+    width: 50px;
+    height: 100px;
+}
+
+.checkbox{
+    width: 80px;
+    height: 60%;
+
+}
+
+#list{
+    margin-left: 20%;
+    margin-top: -3%;
+}
+
+#view{
+color:rgb(11, 11, 11);
+border: solid 1px;
+border-radius: 70px;
+padding: 28px 20px;
+margin-left: -150px;
+margin-top: -28px;
+width: 10%;
+box-shadow:  inset 1px 1px 10px #000;
+}
+
+
+
+
+
+
+
+
+

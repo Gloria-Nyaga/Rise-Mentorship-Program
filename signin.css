@@ -1,0 +1,228 @@
+
+#Logo{
+    text-align: center;
+    margin-left: -8%;
+   
+}
+
+#logo{
+    width: 10%;
+    margin-top: -1%;
+    align-items: center;
+    
+}
+
+
+body{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+    font-size: 20px;
+    width: 60%;
+    border: solid 3px;
+    border-radius:70px ;
+    padding: 28px 30px ;
+    margin-right: 35%;
+    font-family:"Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+#input{
+    background-color:orange;
+    border-color: black;
+    padding: 20px;
+    width: 70%;
+    border-radius:70px ;
+    font-size: 20px;
+}
+
+
+.Sign-In{
+    margin-left: 15%;
+
+}
+
+button {
+    padding: 20px;
+    border-color: black 3px;
+    width: 40%;
+    background-color:orange;
+    color: black;
+    margin-left:20% ;
+    font-size: 20px;
+    border-radius:70px ;
+    margin-top: 8%;
+    
+}
+
+
+@media only screen and (min-width:768px) and (max-width:1024px){
+
+body{
+    font-size: 20px;
+    justify-content: center;
+    font-weight: 400px;
+    font-family:"Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-top: 2%;
+    border: solid 2px;
+    border-radius:50px ;
+    padding:16px 16px ;
+}
+
+#input{
+    background-color:orange;
+    border-color: black;
+    padding: 20px;
+    width: 100%;
+    border-radius:70px ;
+    font-size: 20px;
+}
+
+#logo{
+    width: 25%;
+    object-fit: cover;
+    margin-left: -2%;
+}
+
+button {
+    padding: 20px;
+    border-color: black 3px;
+    width: 60%;
+    background-color:orange;
+    color: black;
+    margin-left:20% ;
+    font-size: 20px;
+    border-radius:70px ;
+    margin-top: 8%;
+    
+}
+
+.Sign-In{
+    margin-left: 6%;
+}
+
+}
+    
+@media only screen and (min-width:320px) and (max-width:864px){
+body{
+    font-size: 28px;
+    margin-right: 5%;
+    justify-content: center;
+    margin-left: 4%;
+    font-weight: 400px;
+    font-family:"Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-top: 2%;
+    border: solid 2px;
+    border-radius:50px ;
+    padding:16px 16px ;
+}
+#about{
+    display: block;
+    align-items: center;
+    color: black;
+}
+
+#get-started{
+    padding: 28px;
+    border-color: black 4px;
+    width: 30%;
+    background-color:orange;
+    color: black;
+    font-size: 24px;
+    border-radius:70px ;
+    margin-top: 7%;    
+}
+
+#Program-name{
+    font-size: 35px;   
+}
+
+#logo{
+    width: 25%;
+    object-fit: cover;
+    margin-left: -2%;
+}
+
+#get-started{
+    padding: 20px;
+    border-color: black 4px;
+    width: 40%;
+    background-color:orange;
+    color: black;
+    font-size: 20px;
+    border-radius:70px ;
+    margin-top: 7%;
+    
+}
+
+
+#mentorship-image{
+    object-fit: cover;
+    width:100%; 
+    margin-top: 7%;  
+}
+}   
+              
+     
+        
+
+    
+    
+    @media only screen and (min-width:280px) and (max-width:319px){
+        
+body{
+    font-size: 24px;
+    margin-right: 5%;
+    justify-content: center;
+    margin-left: 4%;
+    font-weight: 400px;
+    font-family:"Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+        
+#about{
+    display: block;
+    align-items: center;
+    color: black;
+}
+
+#Program-name{
+    font-size: 30px;   
+}
+
+#logo{
+    width: 20%;
+    object-fit: cover;
+    margin-left: -2%;
+}
+
+#get-started{
+    padding: 20px;
+    border-color: black 4px;
+    width: 40%;
+    background-color:rgb(21, 12, 69);
+    color: rgb(233, 224, 224);
+    font-size: 20px;
+    border-radius:70px ;
+    margin-top: 7%;
+    
+}
+
+#mentorship-image{
+    object-fit: cover;
+    width:90%; 
+    margin-top: 7%; 
+    margin-bottom: 2%; 
+}
+
+}    
+        
+        
+        
+        
+       
+        
+        
+        
+

@@ -1,0 +1,28 @@
+#book{
+    font-size: 30px;
+}
+
+body{
+    margin-left: 15%;
+    margin-right: 15%;
+    font-size: 30px;
+}
+
+#Book{
+   width: 20%;
+   height: 10%;
+  object-fit: cover;
+}
+
+#back{
+    padding: 28px;
+    border-color: black 4px;
+    width: 15%;
+    background-color:rgb(4, 1, 23);
+    color: orange;
+    font-size: 24px;
+    border-radius:70px ;
+    margin-top: 2%;
+    font-size: 30px;
+    
+}
