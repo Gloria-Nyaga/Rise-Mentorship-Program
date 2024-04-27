@@ -54,13 +54,15 @@ body{
 
 
 }
+button{
+    color: orange;
+}
 
 #get-started{
     padding: 28px;
-    border-color: black 4px;
     width: 30%;
     background-color:orange;
-    color: black;
+    color: rgb(4, 1, 23);
     font-size: 24px;
     border-radius:70px ;
     margin-top: 7%;
