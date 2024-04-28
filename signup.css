@@ -56,3 +56,362 @@ button {
     margin-right: -14%;
 }
 
+@media only screen and (min-width:375px) and (max-width:667px){
+    .Header{
+        display: block;
+        margin-bottom: 5%;
+    }
+
+    body{
+        font-size: 20px;
+        margin-right: 4%;
+        margin-left: 4%;
+        font-family:"Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+    }
+
+    #logo{
+        width:25%;
+        object-fit: cover;
+        margin-left: 5%;
+    }
+
+    body{
+        margin-left: 10%;
+        margin-right: 10%;
+        font-size: 18px;
+        width: 70%;
+        border: solid 3px;
+        border-radius:70px ;
+        padding: 26px 25px ;
+        font-family:"Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+    }
+
+    .signup-form{
+        margin-left:-24%;
+        margin-right: -24%;
+    }
+
+    #input{
+        background-color:orange;
+        border-color: black;
+        padding: 20px;
+        width: 70%;
+        border-radius:70px ;
+        font-size: 18px;
+    }
+
+    button {
+        padding: 20px;
+        border-color: black 3px;
+        width: 40%;
+        background-color:orange;
+        color: black;
+        margin-left:18% ;
+        font-size: 20px;
+        border-radius:70px ;
+        margin-top: 7%;
+        
+    }
+}
+
+@media only screen and (min-width:260px) and (max-width:375px){
+    .Header{
+        display: block;
+        margin-bottom: 5%;
+    }
+
+    body{
+        font-size: 20px;
+        margin-right: 4%;
+        margin-left: 4%;
+        font-family:"Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+    }
+
+    #logo{
+        width:25%;
+        object-fit: cover;
+        margin-left: 5%;
+    }
+
+    body{
+        margin-left: 10%;
+        margin-right: 10%;
+        font-size: 18px;
+        width: 70%;
+        border: solid 3px;
+        border-radius:70px ;
+        padding: 26px 25px ;
+        font-family:"Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+    }
+
+    .signup-form{
+        margin-left:-24%;
+        margin-right: -24%;
+    }
+
+    #input{
+        background-color:orange;
+        border-color: black;
+        padding: 20px;
+        width: 70%;
+        border-radius:70px ;
+        font-size: 18px;
+    }
+
+    button {
+        padding: 20px;
+        border-color: black 3px;
+        width: 40%;
+        background-color:orange;
+        color: black;
+        margin-left:18% ;
+        font-size: 20px;
+        border-radius:70px ;
+        margin-top: 7%;
+        
+    }
+    
+}
+
+@media only screen and (min-width:820px) and (max-width:1180px){
+    .Header{
+        display: block;
+        margin-bottom: 5%;
+    }
+
+    body{
+        font-size: 20px;
+        margin-right: 4%;
+        margin-left: 4%;
+        font-family:"Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+    }
+
+    #logo{
+        width:25%;
+        object-fit: cover;
+        margin-left: 5%;
+    }
+
+    body{
+        margin-left: 10%;
+        margin-right: 10%;
+        font-size: 18px;
+        width: 70%;
+        border: solid 3px;
+        border-radius:70px ;
+        padding: 26px 25px ;
+        font-family:"Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+    }
+
+    .signup-form{
+        margin-left:-8%;
+        margin-right: -24%;
+    }
+
+    #input{
+        background-color:orange;
+        border-color: black;
+        padding: 20px;
+        width: 70%;
+        border-radius:70px ;
+        font-size: 18px;
+    }
+
+    button {
+        padding: 20px;
+        border-color: black 3px;
+        width: 40%;
+        background-color:orange;
+        color: black;
+        margin-left:18% ;
+        font-size: 20px;
+        border-radius:70px ;
+        margin-top: 7%;
+        
+    }
+}
+@media only screen and (min-width:667px) and (max-width:820px){
+    .Header{
+        display: block;
+        margin-bottom: 5%;
+    }
+
+    body{
+        font-size: 20px;
+        margin-right: 4%;
+        margin-left: 4%;
+        font-family:"Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+    }
+
+    #logo{
+        width:25%;
+        object-fit: cover;
+        margin-left: 5%;
+    }
+
+    body{
+        margin-left: 10%;
+        margin-right: 10%;
+        font-size: 18px;
+        width: 70%;
+        border: solid 3px;
+        border-radius:70px ;
+        padding: 26px 25px ;
+        font-family:"Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+    }
+
+    .signup-form{
+        margin-left:-10%;
+        margin-right: -24%;
+    }
+
+    #input{
+        background-color:orange;
+        border-color: black;
+        padding: 20px;
+        width: 70%;
+        border-radius:70px ;
+        font-size: 18px;
+    }
+
+    button {
+        padding: 20px;
+        border-color: black 3px;
+        width: 40%;
+        background-color:orange;
+        color: black;
+        margin-left:18% ;
+        font-size: 20px;
+        border-radius:70px ;
+        margin-top: 7%;
+        
+    }
+}
+
+@media only screen and (min-width:540px) and (max-width:720px){
+    .Header{
+        display: block;
+        margin-bottom: 5%;
+    }
+
+    body{
+        font-size: 20px;
+        margin-right: 4%;
+        margin-left: 4%;
+        font-family:"Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+    }
+
+    #logo{
+        width:25%;
+        object-fit: cover;
+        margin-left: 5%;
+    }
+
+    body{
+        margin-left: 10%;
+        margin-right: 10%;
+        font-size: 18px;
+        width: 70%;
+        border: solid 3px;
+        border-radius:70px ;
+        padding: 26px 25px ;
+        font-family:"Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+    }
+
+    .signup-form{
+        margin-left:-12%;
+        margin-right: -24%;
+    }
+
+    #input{
+        background-color:orange;
+        border-color: black;
+        padding: 20px;
+        width: 70%;
+        border-radius:70px ;
+        font-size: 18px;
+    }
+
+    button {
+        padding: 20px;
+        border-color: black 3px;
+        width: 40%;
+        background-color:orange;
+        color: black;
+        margin-left:18% ;
+        font-size: 20px;
+        border-radius:70px ;
+        margin-top: 7%;
+        
+    }
+}
+
+@media only screen and (min-width:270px) and (max-width:320px){
+    .Header{
+        display: block;
+        margin-bottom: 5%;
+    }
+
+    body{
+        font-size: 20px;
+        margin-right: 4%;
+        margin-left: 4%;
+        font-family:"Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+    }
+
+    #logo{
+        width:25%;
+        object-fit: cover;
+        margin-left: 5%;
+    }
+
+    body{
+        margin-left: 5%;
+        margin-right: -2%;
+        font-size: 18px;
+        width: 70%;
+        border: solid 3px;
+        border-radius:70px ;
+        padding: 2px 25px ;
+        font-family:"Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+    }
+
+    .signup-form{
+        margin-left:-22%;
+        margin-right: -10%;
+    }
+
+    #input{
+        background-color:orange;
+        border-color: black;
+        padding: 18px;
+        width: 70%;
+        border-radius:70px ;
+        font-size: 18px;
+    }
+
+    button {
+        padding: 20px;
+        border-color: black 3px;
+        width: 40%;
+        background-color:orange;
+        color: black;
+        margin-left:20% ;
+        font-size: 20px;
+        border-radius:70px ;
+        margin-top: 7%;
+        
+    }
+}

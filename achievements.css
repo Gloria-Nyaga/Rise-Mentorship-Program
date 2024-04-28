@@ -39,9 +39,9 @@ body{
     display: flex;
     color: rgb(100, 15, 15);
     align-items: center;
-    margin-left: 8%;
+    margin-left: 10%;
     margin-top: 2%;
-    gap: 13%;
+    gap: 40%;
 
 }
 
