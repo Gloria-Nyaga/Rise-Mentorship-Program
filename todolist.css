@@ -122,6 +122,11 @@ button{
     
 }
 
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: black;
+}
+
 .class{
     width: 50px;
     height: 100px;

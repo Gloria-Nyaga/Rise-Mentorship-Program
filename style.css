@@ -58,6 +58,11 @@ button{
     color: orange;
 }
 
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: black;
+}
+
 #get-started{
     padding: 28px;
     width: 30%;

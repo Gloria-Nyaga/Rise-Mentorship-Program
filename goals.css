@@ -66,6 +66,11 @@ button{
   
 }
 
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: black;
+}
+
 #goal{
     background-color:transparent;
     border-color: black;

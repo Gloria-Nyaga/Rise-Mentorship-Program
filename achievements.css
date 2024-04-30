@@ -68,6 +68,11 @@ button{
   
 }
 
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: black;
+}
+
 #task{
     background-color:transparent;
     border-color: black;
