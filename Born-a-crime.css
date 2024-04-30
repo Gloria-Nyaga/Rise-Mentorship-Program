@@ -1,33 +1,41 @@
 #book{
     font-size: 30px;
+    
 }
 
 body{
-    margin-left: 15%;
-    margin-right: 15%;
-    font-size: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 24px;
+    
 }
 
 #Book{
-   width: 20%;
-   height: 10%;
+   width: 15%;
+   height: 7%;
   object-fit: cover;
+  margin-top: 1%;
 }
 
 #back {
     padding: 28px;
     background-color:rgb(4, 1, 23);
-    color: orange;
     font-size: 24px;
     border-radius:50px ;
-    margin-top: 2%;
     font-size: 30px;
     text-decoration:none;
+    width: 15%;
     
 }
 
 button a{
-    border-color: none;
-    width: 60%;
+    border-color: black;
+    width: 70%;
 
 }
+
+#book_details{
+    align-items: center;
+    text-align: center;
+}
+
